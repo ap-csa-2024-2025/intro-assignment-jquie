@@ -17,4 +17,10 @@ Answer the questions below
 * Ask Mr. Vu anything:
 * List your sports and extracurriculars you participate in
  
- random
+ Senior Year Classes:
+ - AP Physics C
+ - AP Psychology
+ - AP Stats
+ - Culinary
+ - AP Lit
+ - tennis (VARSITY???)
