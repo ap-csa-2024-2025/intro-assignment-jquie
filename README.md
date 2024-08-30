@@ -16,11 +16,11 @@ Answer the questions below
 * Something interesting about me is
 * Ask Mr. Vu anything:
 * List your sports and extracurriculars you participate in
- 
- Senior Year Classes:
- - AP Physics C
- - AP Psychology
- - AP Stats
- - Culinary
- - AP Lit
- - tennis (VARSITY???)
+
+- something interesting about me is i can lick my elbow
+- weirdest student experience?
+- Sport: tennis
+- extracurriculars: 
+    - OCSEF
+    - Exploravision
+    - MERITS club things
