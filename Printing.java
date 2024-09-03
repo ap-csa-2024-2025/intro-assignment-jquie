@@ -4,7 +4,7 @@ public class Printing
     {
         // int, double, boolean, String
         int myAge = 999;    // int is for whole numbers; integers
-        double price = 4.99;
+        double price = 4.99; // decimals
         boolean isGood; // variable declaration
         isGood = false; // variable initialization
 
